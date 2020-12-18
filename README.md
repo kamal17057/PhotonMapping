@@ -2,7 +2,7 @@
 A Photon Tracer implemented in c++ which uses Photon Maps for Caustics and Global Illumination
 
 # Compilation Steps
-cd PhotonMapping\n
+cd PhotonMapping<br/>
 make
 
 # Run the Program
